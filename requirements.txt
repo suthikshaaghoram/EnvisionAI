@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+fastapi
+uvicorn
+requests
+edge-tts
+qdrant-client
+fastembed
