@@ -1,6 +1,6 @@
-# AffirmAI - AI-Powered Manifestation Generator
+# EnvisionAI - AI-Powered Manifestation Generator
 
-AffirmAI is a FastAPI-based backend that generates personalized manifestation passages using Hugging Face's Inference API and converts them to speech using `edge-tts` (Indian English).
+EnvisionAI is a FastAPI-based backend that generates personalized manifestation passages using Hugging Face's Inference API and converts them to speech using `edge-tts` (Indian English).
 
 ## Tech Stack
 - **Framework**: FastAPI

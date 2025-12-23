@@ -10,3 +10,7 @@ qdrant_storage/
 static/audio/
 test_tamil_accent.mp3
 test_voice.py
+node_modules/
+dist/
+coverage/
+.DS_Store
